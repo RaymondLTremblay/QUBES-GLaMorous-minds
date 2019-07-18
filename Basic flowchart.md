@@ -121,7 +121,7 @@ model2<-glm (birth[ ,R] ~ birth[ ,P],  family = binomial ())
 log1<-ggplot (birth, aes (x = Gestation_Time_days, y = Survival)) + 
 geom_jitter (height = 0.10) + 
 stat_smooth (method = "glm", method.args = list (family = "binomial")) + 
-labs (x = "Weight Index", y = "Surv Probability") + 
+labs (x = "Gestation Time (days)", y = "Surv Probability") + 
 ggtitle ("Models of Male Survival Probabilities at Birth based on Gestation Time")
 
 ```
