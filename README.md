@@ -13,8 +13,8 @@ The first example goes throught the process of defining the
 
 The group members are
 
-Dinesh Sharma, James Madison University, Virginia
-Mitra Memon, Viginia Commonwealth University, Virginia
-Mao Lun Weng,  Westfield StateUniversity, Masschusettes
-Tyler Frazer, William and Mary University, Viginia
-Raymond L. Tremblay, University of Puerto Rico, Puerto Rico
+  Dinesh Sharma, James Madison University, Virginia
+  Mitra Memon, Viginia Commonwealth University, Virginia
+  Mao Lun Weng,  Westfield StateUniversity, Masschusettes
+  Tyler Frazer, William and Mary University, Viginia
+  Raymond L. Tremblay, University of Puerto Rico, Puerto Rico
